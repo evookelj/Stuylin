@@ -1,0 +1,23 @@
+body {
+    background-color: #eba299;
+    color: #a4eb99;
+}
+
+ul {
+    background-color: #ebd399;
+    position: center;
+}
+
+li {
+    color: #e6eb99;
+}
+
+h1 {
+    text-align: center;
+    border: 2px solid;
+}
+
+p {
+    background-color: #bae1ff;
+    color: black;
+}
