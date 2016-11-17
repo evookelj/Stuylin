@@ -1,23 +1,41 @@
+.extreme {
+    color: #a6d9f7;
+    text-align: right;
+}
+
+.navzone {
+    background-color: #84dccf;
+}
+
+.content {
+    background-color: #d4b483;
+    text-align: right;
+}
+
+#head1 {
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+#tehlulz {
+    font-size: 2em;
+}
+
+.prose {
+    color: #c1666b;
+}
+
+h1 {
+    padding: 5px;
+}
+
 body {
-    background-color: #eba299;
-    color: #a4eb99;
+    background-color: #312f2f;
 }
 
 ul {
-    background-color: #ebd399;
     position: center;
 }
 
 li {
-    color: #e6eb99;
-}
-
-h1 {
-    text-align: center;
-    border: 2px solid;
-}
-
-p {
-    background-color: #bae1ff;
-    color: black;
+    color: #bccc30;
 }
