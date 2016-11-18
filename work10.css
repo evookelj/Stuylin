@@ -1,0 +1,27 @@
+body {
+    background-color: #5d576b;
+    color: #fffae3;
+    margin: 10px;
+}
+
+.content1 {
+    font-family: andale mono;
+}
+
+.content2 {
+    display: flex;
+    background-color: #f7567c;
+    color: #5d576b;
+}
+
+h2 {
+    color: #fffae3;
+    text-align: right;
+}
+
+.content3 {
+    display: flex;
+    flex-direction: column;
+    background-color: #99e1d9;
+    color: #5d576b;
+}
