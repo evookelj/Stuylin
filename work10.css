@@ -6,8 +6,12 @@ body {
     margin: 2em;
 }
 
+#head {
+    text-align: right;
+        font-variant: small-caps;
+}
+
 .content1 {
-    font-family: andale mono;
     overflow: auto;
 }
 
