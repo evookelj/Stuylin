@@ -39,6 +39,7 @@ h2:hover {
 }
 
 .content3 {
+    border: 2px solid black;
     display: flex;
     margin-left: 30em;
     flex-direction: column;
