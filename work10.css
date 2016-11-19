@@ -1,7 +1,9 @@
 body {
-    background-color: #5d576b;
-    color: #fffae3;
-    margin: 10px;
+    background-image: url("banana.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #5b5f97;
+    margin: 2em;
 }
 
 .content1 {
@@ -11,22 +13,35 @@ body {
 
 .content2 {
     display: flex;
-    background-color: #f7567c;
-    color: #5d576b;
+    background-color: #a5be00;
+    color: black;
+    margin-right: 30em;
 }
 
 h2 {
     text-align: right;
+    padding: 1em;
+}
+
+li {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+p {
+    padding-left: 1em;
+    padding-right: 1em;
 }
 
 h2:hover {
-    color: #fffae3;
+    opacity: 0.1;
     transition: .5s;
 }
 
 .content3 {
     display: flex;
+    margin-left: 30em;
     flex-direction: column;
-    background-color: #ffcad4;
-    color: #5d576b;
+    background-color: #679436;
+    color: white;
 }
