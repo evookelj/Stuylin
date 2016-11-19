@@ -4,11 +4,16 @@ body {
     background-size: cover;
     color: #5b5f97;
     margin: 2em;
+    font-size: .8em;
 }
 
 #head {
     text-align: right;
-        font-variant: small-caps;
+    font-variant: small-caps;
+}
+
+#blurb {
+    font-size: 20em;
 }
 
 .content1 {
